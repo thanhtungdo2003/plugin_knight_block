@@ -1,0 +1,34 @@
+name: KnightBlock
+version: '1.0'
+main: com.bbv.knightblock.KnightBlock
+author: _BBV_
+api-version: '1.20'
+commands:
+  knightblock:
+    aliases: [kb]
+  tinhlinh:
+    aliases: [tl]
+  thuoctinh:
+    aliases: [tt]
+  nen_van_hoa:
+    aliases: [vh]
+  class:
+    aliases: [class]
+  soulspawner:
+    aliases: [sspawner]
+  knightblockarena:
+    aliases: [kbarena, arena]
+  bifrost:
+  antoan:
+    aliases: [at]
+  vipfly:
+    aliases: [kbfly, vfly, vf]
+  tuyetky:
+    aliases: [tk]
+  truyna:
+    aliases: [tna]
+  khokhoangsan:
+    aliases: [kks, ks]
+  xemkd:
+  knightblockanticheat:
+    aliases: [kac, ac]
